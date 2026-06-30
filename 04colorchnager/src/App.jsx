@@ -10,7 +10,7 @@ function App() {
   return (
     <>
 
-      <div className= {`h-screen flex justify-center items-end pb-8 ${bgColor} ` }>
+      <div className= {`h-screen flex justify-center items-end pb-8 transition-colors duration-500 ${bgColor} ` }>
 
         <div className=' bg-white/20 backdrop-blur-xl h-20 max-w-7xl w-full rounded-2xl border border-white/40 shadow-xl flex items-center justify-evenly'>
 
