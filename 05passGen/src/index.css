@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+theme {
+  --font-helvetica: Helvetica, Arial, sans-serif;
+}
+
+body{
+  background-color: #212221;
+}
